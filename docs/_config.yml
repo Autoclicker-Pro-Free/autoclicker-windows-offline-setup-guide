@@ -1,0 +1,41 @@
+title: AutoClicker for Windows - Free Mouse Automation Tool
+description: The best free autoclicker for Windows. Offline mouse automation tool with no login required. Perfect for gaming, work, and repetitive clicking tasks.
+baseurl: "/autoclicker-windows-offline-setup-guide"
+url: "https://autoclicker-pro-free.github.io"
+
+# SEO Settings
+author: AutoClicker Pro Free
+lang: en_US
+keywords: autoclicker for windows, mouse automation tool, free clicker download, autoclicker offline version, no login clicker, simple click assistant, autoclicker for pc, click bot for windows
+
+# Theme
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - docs/installation.md
+  - docs/manual.md
+  - docs/hotkeys.md
+  - docs/gaming.md
+  - docs/troubleshooting.md
+
+# Social
+github_username: Autoclicker-Pro-Free
+twitter_username: autoclicker_free
+
+# Google Analytics (when ready)
+# google_analytics: UA-XXXXXXX-X
+
+# Exclude from processing
+exclude:
+  - .internal/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .gitignore 
