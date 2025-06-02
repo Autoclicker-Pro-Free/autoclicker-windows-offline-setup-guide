@@ -1,10 +1,32 @@
-# Credentials and sensitive data
-.internal/GITHUB_CREDENTIALS.md
-.internal/*.secret
-*.key
-*.token
+# 🔒 СИСТЕМНЫЕ ФАЙЛЫ - НЕ ДЛЯ ПУБЛИЧНОГО ДОСТУПА
+# ===================================================
 
-# OS generated files
+# Полностью скрыть папку .internal с конфиденциальными данными
+.internal/
+.internal/**
+**/.internal/
+**/.internal/**
+
+# Креденшелы и токены
+*.credentials
+*.secrets
+*.token
+*.key
+*.env
+.env*
+config.secret.*
+auth.*
+credentials.*
+
+# Внутренние конфигурации
+.config/
+.settings/
+.workspace/
+*.private
+*.local
+local.*
+
+# OS generated files (системные файлы ОС)
 .DS_Store
 .DS_Store?
 ._*
@@ -12,33 +34,108 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
 
-# IDE
+# IDE и редакторы (скрытые файлы разработки)
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-*
+.atom/
 
-# Build artifacts
+# Build artifacts (файлы сборки)
 dist/
 build/
+out/
+target/
 *.exe
 *.msi
 *.zip
+*.tar.gz
+*.rar
 setup/
+installer/
+release/
 
-# Logs
+# Logs (логи системы)
 *.log
+*.log.*
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+logs/
+log/
 
-# Runtime data
+# Runtime data (временные данные)
 pids
 *.pid
 *.seed
 *.pid.lock
+.grunt
+.lock-wscript
 
-# Temporary folders
+# Temporary folders (временные папки)
 tmp/
-temp/ 
+temp/
+.tmp/
+.temp/
+cache/
+.cache/
+
+# Backup files (файлы резервных копий)
+*.bak
+*.backup
+*.old
+*.orig
+
+# Database files (файлы баз данных - могут содержать чувствительную информацию)
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+
+# Archives (архивы)
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# System files (дополнительные системные файлы)
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Package managers (файлы пакетных менеджеров)
+node_modules/
+vendor/
+Gemfile.lock
+package-lock.json
+yarn.lock
+composer.lock
+
+# Coverage reports (отчеты о покрытии кода)
+coverage/
+.nyc_output/
+.coverage
+htmlcov/
+
+# Documentation builds (временные файлы документации)
+site/
+docs/_site/
+_site/
+
+# ===================================================
+# 🚨 ВАЖНО: Эти файлы содержат конфиденциальную информацию
+# и не должны попадать в публичный репозиторий!
+# =================================================== 
