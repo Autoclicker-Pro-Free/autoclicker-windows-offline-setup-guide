@@ -1,7 +1,7 @@
 title: AutoClicker for Windows - Free Mouse Automation Tool
 description: The best free autoclicker for Windows. Offline mouse automation tool with no login required. Perfect for gaming, work, and repetitive clicking tasks.
 baseurl: "/autoclicker-windows-offline-setup-guide"
-url: "https://robertnotdeniro.github.io"
+url: "https://autoclicker-pro-free.github.io"
 
 # SEO Settings
 author: AutoClicker Pro Free
@@ -24,7 +24,7 @@ header_pages:
   - docs/troubleshooting.md
 
 # Social
-github_username: robertnotdeniro
+github_username: Autoclicker-Pro-Free
 twitter_username: autoclicker_free
 
 # Google Analytics (when ready)

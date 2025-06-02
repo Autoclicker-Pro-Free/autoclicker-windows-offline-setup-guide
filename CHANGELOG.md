@@ -119,10 +119,10 @@ Special thanks to our community for:
 
 ## 🔗 Links & Resources
 
-- **GitHub Repository**: [github.com/robertnotdeniro/autoclicker-windows-offline-setup-guide](https://github.com/robertnotdeniro/autoclicker-windows-offline-setup-guide)
-- **Documentation**: [robertnotdeniro.github.io/autoclicker-windows-offline-setup-guide](https://robertnotdeniro.github.io/autoclicker-windows-offline-setup-guide)
-- **Downloads**: [Latest Release](https://github.com/robertnotdeniro/autoclicker-windows-offline-setup-guide/releases/latest)
-- **Issues**: [Bug Reports & Features](https://github.com/robertnotdeniro/autoclicker-windows-offline-setup-guide/issues)
+- **GitHub Repository**: [github.com/Autoclicker-Pro-Free/autoclicker-windows-offline-setup-guide](https://github.com/Autoclicker-Pro-Free/autoclicker-windows-offline-setup-guide)
+- **Documentation**: [autoclicker-pro-free.github.io/autoclicker-windows-offline-setup-guide](https://autoclicker-pro-free.github.io/autoclicker-windows-offline-setup-guide)
+- **Downloads**: [Latest Release](https://github.com/Autoclicker-Pro-Free/autoclicker-windows-offline-setup-guide/releases/latest)
+- **Issues**: [Bug Reports & Features](https://github.com/Autoclicker-Pro-Free/autoclicker-windows-offline-setup-guide/issues)
 
 ---
 
